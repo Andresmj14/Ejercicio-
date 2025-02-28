@@ -15,4 +15,4 @@ Los ejercicios de cardio son actividades que aumentan tu frecuencia cardíaca y 
 
 ## Consejos
 - Mantén una hidratación adecuada.
-- Escoge un ritmo que puedas mantener.
+- Escoge un ritmo que puedas mantener seguido. 
