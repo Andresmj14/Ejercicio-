@@ -6,7 +6,7 @@ Los ejercicios de cardio son actividades que aumentan tu frecuencia cardíaca y 
 ## Beneficios
 - Aumenta la capacidad cardiovascular.
 - Ayuda a quemar calorías.
-- Mejora el estado de ánimo.
+- Mejora el estado de ánimo .
 
 ## Instrucciones
 -Comienza con un calentamiento de 5-10 minutos (puede ser una caminata ligera o ejercicios de movilidad).
