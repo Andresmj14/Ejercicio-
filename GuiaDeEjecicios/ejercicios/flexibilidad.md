@@ -15,4 +15,4 @@ Los ejercicios de flexibilidad son actividades que aumentan tu frecuencia cardí
 
 ## Consejos
 - Mantén una hidratación adecuada.
-- Escoge un ritmo que puedas mantener.
+- Escoge un ritmo que puedas mantener .
