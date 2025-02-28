@@ -13,3 +13,9 @@ Los ejercicios de cardio son actividades que aumentan tu frecuencia cardíaca y 
 -Fondos en banco (3 series de 10-12 repeticiones)
 -Termina con un enfriamiento y estiramientos.
 
+## Consejos
+-Usa pesos adecuados para tu nivel. Si eres principiante, comienza con tu peso corporal.
+-Mantén una postura adecuada en todo momento para evitar lesiones.
+-Si puedes, incrementa gradualmente el peso o la intensidad.
+-Tómate descansos de 30-60 segundos entre series.
+
